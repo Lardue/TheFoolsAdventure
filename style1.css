@@ -1,0 +1,29 @@
+body {
+    background-image: url("forestBackground.png");
+  }
+  
+.startLink {
+    height: 550px;
+    position: relative;
+}
+
+.startLink a {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    text-decoration: none;
+    font-weight: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: white;
+    text-shadow: 3px 3px #5c5a5abd;
+}
+
+a:hover {
+    color: #e8e6eb;
+  }
