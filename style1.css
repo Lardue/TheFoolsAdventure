@@ -1,5 +1,8 @@
 body {
     background-image: url("forestBackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
   }
   
 .startLink {
